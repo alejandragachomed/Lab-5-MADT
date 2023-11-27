@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab-5-MADT</string>
+    <string name="app_title">EUR currencies:</string>
+    <string name="filter">filter by…</string>
+</resources>
